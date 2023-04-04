@@ -9,7 +9,7 @@ I'm a Security Engineer and Developer.
 - Email: [bilguunsec@gmail.com](mailto:bilguunsec@gmail.com)
 
 ## ⭐ Certifications
-<img src="https://raw.githubusercontent.com/bekkage/bekkage/main/img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png" width="150"><img src="https://raw.githubusercontent.com/bekkage/bekkage/main/img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png" width="150">
+<img src="https://raw.githubusercontent.com/bekkage/bekkage/main/img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png" width="150">
 
 ## 🔧 Technologies & Tools
 
