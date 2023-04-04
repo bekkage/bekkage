@@ -5,12 +5,11 @@ I'm a Security Engineer and Developer.
 ## 📫 How to reach me
 
 - LinkedIn: [https://www.linkedin.com/in/bilguun-ganchuluun-61b7141b0](https://www.linkedin.com/in/bilguun-ganchuluun-61b7141b0/)
-- Twitter: [https://www.instagram.com/bekkage7]([https://twitter.com/yourusername](https://www.instagram.com/bekkage7/))
+- Instagram: [https://www.instagram.com/bekkage7](https://www.instagram.com/bekkage7/))
 - Email: [bilguunsec@gmail.com](mailto:bilguunsec@gmail.com)
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
