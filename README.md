@@ -1,22 +1,26 @@
-# Hey there 👋
+# Hi there 👋
 
-I'm a:
-- **Security engineer**
-- Developer :v:
-- CTF Player 
+I'm a Security Engineer and Developer.
 
-## Connect with me
+## 📫 How to reach me
 
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/bilguun-ganchuluun-61b7141b0/#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bilguun-ganchuluun-61b7141b0/#gh-dark-mode-only)
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/bekkage7/#gh-light-mode-only)
-[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/bekkage7/#gh-dark-mode-only)
+- LinkedIn: [https://www.linkedin.com/in/bilguun-ganchuluun-61b7141b0](https://www.linkedin.com/in/bilguun-ganchuluun-61b7141b0/)
+- Twitter: [https://www.instagram.com/bekkage7]([https://twitter.com/yourusername](https://www.instagram.com/bekkage7/))
+- Email: [bilguunsec@gmail.com](mailto:bilguunsec@gmail.com)
 
-## Certifications
-![image](https://user-images.githubusercontent.com/69065809/229742390-cd23bbb1-42ca-4b76-a2c5-bd0c5e972e73.png)
+## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-<!---
-bekkage/bekkage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/yourusername/yourusername">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=html,css&theme=radical" />
+</a>
+
+<a href="https://github.com/bekkage/bekkage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bekkage&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Your Name's GitHub Stats" />
+</a>
