@@ -4,8 +4,8 @@ I'm a Security Engineer and Developer.
 
 ## 📫 How to reach me
 
-- LinkedIn: [https://www.linkedin.com/in/bilguun-ganchuluun-61b7141b0](https://www.linkedin.com/in/bilguun-ganchuluun-61b7141b0/)
-- Instagram: [https://www.instagram.com/bekkage7](https://www.instagram.com/bekkage7/))
+- LinkedIn: [https://www.linkedin.com/in/bilguun-ganchuluun-61b7141b0](Bilguun Ganchuluun)
+- Instagram: [https://www.instagram.com/bekkage7](bekkage7)
 - Email: [bilguunsec@gmail.com](mailto:bilguunsec@gmail.com)
 
 ## 🔧 Technologies & Tools
