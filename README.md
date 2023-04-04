@@ -16,10 +16,10 @@ I'm a Security Engineer and Developer.
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/yourusername/yourusername">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=html,css&theme=radical" />
+<a href="https://github.com/bekkage/bekkage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekkage&hide=html,css&theme=radical" />
 </a>
 
 <a href="https://github.com/bekkage/bekkage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bekkage&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Your Name's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bekkage&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Bekkage's GitHub Stats" />
 </a>
