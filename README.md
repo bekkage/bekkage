@@ -8,6 +8,9 @@ I'm a Security Engineer and Developer.
 - Instagram: [bekkage7](https://www.instagram.com/bekkage7)
 - Email: [bilguunsec@gmail.com](mailto:bilguunsec@gmail.com)
 
+## ⭐ Certifications
+[![OSCP](./img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png)](https://www.credential.net/bd7086d5-0cb1-4ec5-a286-44d8bf784282)
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
