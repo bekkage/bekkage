@@ -9,7 +9,7 @@ I'm a Security Engineer and Developer.
 - Email: [bilguunsec@gmail.com](mailto:bilguunsec@gmail.com)
 
 ## ⭐ Certifications
-[![OSCP](./img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png)](https://www.credential.net/bd7086d5-0cb1-4ec5-a286-44d8bf784282)
+[![OSCP](./img/fa54f767-4ff0-4fc6-91c4-40555ba62545.png)]{: style="width:50%;"}(https://www.credential.net/bd7086d5-0cb1-4ec5-a286-44d8bf784282)
 
 ## 🔧 Technologies & Tools
 
